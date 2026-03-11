@@ -12,3 +12,5 @@ Crea una clase Producto con titulo, icono y colorFondo.
 Utiliza un Wrap o Row con espaciado consistente para posicionar los elementos tal como están en el dibujo."
 sin utilizar BakeryDiningOutlined
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/dd2a30cd-65eb-403a-99f1-82fffd81c9ab" />
+<img width="325" height="516" alt="image" src="https://github.com/user-attachments/assets/f016ac25-84ec-440f-b439-d7f0f458e320" />
+<img width="766" height="564" alt="image" src="https://github.com/user-attachments/assets/41554fc1-dc8a-470b-8152-dbdd9c078c0f" />
